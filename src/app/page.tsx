@@ -8,6 +8,12 @@ const assignments = [
     title: "상품 목록 만들기",
     description: "object 형식의 데이터를 이용해서 상품 목록 만들기",
   },
+  {
+    order: 2,
+    path: "profile-card",
+    title: "프로필 카드 만들기",
+    description: "object 형식의 데이터를 만들고 그것을 이용해서 프로필 카드 만들기",
+  },
 ];
 
 export default function Home() {
